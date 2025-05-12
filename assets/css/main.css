@@ -92,6 +92,10 @@ h3 {
   color: #ff6f61;
 }
 
+.accent-text {
+  color: #ff6f61;
+}
+
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
